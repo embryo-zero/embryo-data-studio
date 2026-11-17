@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Data Studio
+
+**Embryo Data Studio** is Embryo-Zero's fork of [argilla](https://github.com/argilla-io/argilla), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 > [!IMPORTANT]
 The original authors have moved on to exciting new projects! The codebase is mature and stable, having served users reliably for years. While we won't be adding new features going forward, we're committed to solve bug fixes and publish patches as needed.
 If you're interested in helping maintain or extend this project, we'd love to hear from you! Please open an issue to discuss becoming a maintainer - we're looking for dedicated contributors who can take ownership of the project's future development.
